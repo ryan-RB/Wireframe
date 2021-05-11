@@ -1,1 +1,1 @@
-https://github.com/ryan-RB/Wireframe/blob/main/index.html
+https://ryan-rb.github.io/Wireframe/
